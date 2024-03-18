@@ -17,3 +17,10 @@
 .btnHover{
   transition: 0.2s ease-in-out;
 }
+
+.font-outfit{
+  font-family: Outfit;
+}
+.round{
+  border-radius: 0 0 20px 20px;
+}
